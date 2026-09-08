@@ -1,0 +1,19 @@
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+
+# Editoren
+.vscode/
+.idea/
+
+# Abhängigkeiten und Builds
+node_modules/
+dist/
+.cache/
+
+# Lokale Konfiguration und Geheimnisse
+.env
+.env.*
+!.env.example
+*.key
+*.pem
