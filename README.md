@@ -11,7 +11,9 @@ Eine ruhige, vertrauenswürdige und mobil gut nutzbare Website für professionel
 - Inhaltliche Grundlage im privaten Second Brain vorhanden
 - MVP-Seitenstruktur erstellt
 - Referenz für Atmosphäre und Nutzerführung dokumentiert
-- Gestaltung, Kontaktdaten, Terminbuchung, Domain und Hosting noch offen
+- responsiver statischer Onepage-Entwurf umgesetzt
+- Impressum und Datenschutz als klar gekennzeichnete Entwürfe angelegt
+- Kontaktdaten, Terminbuchung, Bilder, fachliche Freigabe und GitHub Pages noch offen
 
 ## Geplanter Aufbau
 
@@ -35,8 +37,10 @@ Eine ruhige, vertrauenswürdige und mobil gut nutzbare Website für professionel
 
 ## Nächste Schritte
 
-- [ ] Designrichtung festlegen
-- [ ] Inhalte redaktionell kürzen und freigeben
+- [x] erste Designrichtung umsetzen
+- [x] Inhalte für den technischen Entwurf redaktionell kürzen
 - [ ] Bilder und Kontaktdaten bereitstellen
 - [ ] Buchungssystem festlegen
-- [ ] technischen Prototyp erstellen
+- [x] technischen Prototyp erstellen
+- [ ] Inhalte fachlich und rechtlich freigeben
+- [ ] GitHub Pages aktivieren
